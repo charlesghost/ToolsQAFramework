@@ -49,7 +49,7 @@ BDD was used to figure out the customer's requirements defined in automated acce
 Clone this repo to your personal computer using the terminal:
 
 ```
-https://github.com/spartaglobal/ToolQATestFramework.git
+https://github.com/cjoshua15/ToolsQAFramework.git
 
 ```
  Then once you are in the root folder, in your terminal enter:
